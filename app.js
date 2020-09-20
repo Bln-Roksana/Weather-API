@@ -40,7 +40,7 @@ app.post("/", function(req, res){
 })
 
 // const query="Manchester";
-// const apiKey="e1236a9464ce06b76cdb765cd43a80c4";
+// const apiKey="";
 // const unit="metric"
 // const url="https://api.openweathermap.org/data/2.5/weather?q="+query+"&appid="+apiKey+"&units="+unit;
 // https.get(url,function(response){
